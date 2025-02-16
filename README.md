@@ -83,10 +83,6 @@ To prevent SQL injection, developers should:
 - **Limit database permissions** to minimize the impact of an attack.
 - **Use ORM frameworks** like Django ORM to abstract raw SQL execution.
 
----
-
-## Disclaimer
-This project is for **educational and research purposes only**. Do not use it to target real applications. The author is **not responsible** for any misuse of this information.
 
 ---
 
